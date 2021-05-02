@@ -1,0 +1,1 @@
+Az első Odin-Projectem. A Google főoldalát szerkesztem meg. Már tanultam HTMl-t és CSS-t, tanultam az Internetről is és tanutlam a Developer Tool-ról.
